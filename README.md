@@ -1,5 +1,1 @@
-# Gomulu
-# Gomulu
-# Gomulu
-# Gomulu
-# Gomulu
+Bu kodda hgs geçiş sistemi kullanılıyor.Servo motor, Ultrasonsik sensör ve ESP8266 nodemcu 12e kullanarak araba geçiş sistemi yaptık. Aldığımız mesafe ve toplam araç sayısı verilerini Thinkspeake aktardık.
